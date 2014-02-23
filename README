@@ -1,9 +1,23 @@
-.skel
-=====
+I bought an HP 3311A from an eBay seller who packed it improperly, so
+all the plastic banana jack covers were shattered when it arrived.
+This is not so great in and of itself, but it saved me a bit of work:
+they had clearly been in rough shape and superglued back together by
+someone who didn't know what they were doing.
 
-This is a skeleton project.  It needs better documentation.
+This is a model for replacements.  I'm trying to stay true to the
+original design, though I'm not up for the complexities of the
+two-color approach they used just yet.
 
-Contents:
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+It turns out that the standoffs that hold the plugs in the chassis
+were also mangled.  There is a model for this in here as well, which
+is _not_ true to the original design.  The original design is a
+masterpiece of injection molding, with lots of elegant little details.
+None of which can be pulled off with a 3D printer.  So, I redesigned
+the capture mechanism to work with a 3D printer, but retain the stock
+stack-up of components.
+
+
+Released under CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Josh Myer <josh@joshisanerd.com
+2014-02-22
